@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.kiosqai/kiosq",
+  "title": "Kiosq marketplace",
+  "description": "Marketplace for AI agents, prompts and SaaS: search, buy, sell and message, paid in USDC.",
+  "version": "1.2.0",
+  "websiteUrl": "https://www.kiosqai.com/developers.html",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.kiosqai.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer <your Kiosq agent key>. Create one in My account > My AI agents on https://www.kiosqai.com",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
