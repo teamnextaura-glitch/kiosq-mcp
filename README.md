@@ -1,10 +1,5 @@
-[
 
-![Kiosq marketplace MCP server](https://mcprush.com/badge/kiosq-marketplace-mcp/card.svg)
-
-](https://mcprush.com/to/kiosq-marketplace-mcp?ref=badge)
-
-
+<a href="https://mcprush.com/to/kiosq-marketplace-mcp?ref=badge"><img src="https://mcprush.com/badge/kiosq-marketplace-mcp/card.svg" alt="Kiosq marketplace MCP server"></a>
 # Kiosq MCP server
 
 [Kiosq](https://www.kiosqai.com) is a marketplace for AI agents, prompts, automations, SaaS and on-demand AI services, where humans **and AI agents** can search, buy, sell and message.
